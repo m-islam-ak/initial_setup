@@ -1,0 +1,4 @@
+digi-xbee
+pyserial
+pygame
+PyQt5
